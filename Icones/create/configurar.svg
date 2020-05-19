@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="configurar.svg"
+   inkscape:export-filename="A:\Projetos\Verificador de Viscosidade\ihm\Icones\configurar.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title847">Chave Fixa</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28850711"
+     inkscape:cx="118.28043"
+     inkscape:cy="420.17656"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="mm"
+     showborder="true"
+     inkscape:pagecheckerboard="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Chave Fixa</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:9.05559063;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path823"
+       sodipodi:sides="5"
+       sodipodi:cx="79.050232"
+       sodipodi:cy="73.264313"
+       sodipodi:r1="52.407936"
+       sodipodi:r2="26.203966"
+       sodipodi:arg1="0.41689807"
+       sodipodi:arg2="1.0452166"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 126.9694,94.485657 73.67537,125.3959 27.80922,84.262063 52.756407,27.929707 114.04077,34.248235 Z"
+       transform="matrix(1.017363,0.50874389,-0.50874389,1.017363,60.271963,-46.026562)" />
+    <path
+       id="path823-0"
+       style="fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:5.15025091;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 143.4042,263.39531 -18.12242,6.58499 -14.76395,-12.40196 3.3584,-18.98698 18.1224,-6.58501 14.76399,12.40197 z M 45.696168,53.846375 11.488898,67.677011 c 0,0 20.693334,79.880819 36.559512,97.506519 15.86618,17.62571 20.272632,-1.6162 34.125856,17.06502 13.853171,18.68122 -6.564633,83.94259 17.058386,99.94321 23.622968,16.00065 53.043728,8.6574 68.253988,-14.62234 15.21024,-23.27975 -27.87592,-75.29923 -19.4963,-95.06812 8.37966,-19.76888 14.59732,1.87217 26.81465,-17.062 12.21735,-18.9342 14.63074,-102.379253 14.63074,-102.379253 L 158.8691,46.833945 141.37679,114.6946 71.43211,119.02851 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

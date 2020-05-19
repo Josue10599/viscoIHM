@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Informacoes.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="950.1072"
+     inkscape:cy="575.51269"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:4.96810198;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path817"
+       cx="105.46231"
+       cy="139.63164"
+       rx="101.35125"
+       ry="101.25771" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot819"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Ubuntu;font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Ubuntu;font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion821"
+         style="font-size:192px;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+           id="rect823"
+           width="496"
+           height="550"
+           x="148"
+           y="256.51968"
+           style="font-size:192px;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara825"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot827"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Ubuntu Mono';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Ubuntu Mono';font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion829"
+         style="-inkscape-font-specification:'Ubuntu Mono';font-family:'Ubuntu Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+           id="rect831"
+           width="458"
+           height="530"
+           x="160"
+           y="274.51968"
+           style="-inkscape-font-specification:'Ubuntu Mono';font-family:'Ubuntu Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara833"></flowPara></flowRoot>    <g
+       aria-label="i"
+       transform="matrix(0.35666298,0,0,0.35666298,3.0514501,-64.337075)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot835">
+      <path
+         d="m 271.33334,448.98108 q -17.33334,0 -30,-12 -12.66667,-12 -12.66667,-32.66667 0,-20.66667 12.66667,-32.66667 12.66666,-12 30,-12 18,0 30,12 12.66667,12 12.66667,32.66667 0,20.66667 -12.66667,32.66667 -12,12 -30,12 z m -14,94 H 168 v -46 h 144.00001 v 190.00001 q 0,46 12.66666,62 12.66667,15.33333 38,15.33333 19.33334,0 35.33334,-4.66667 16.66667,-4.66666 26,-10 l 8,46.66667 q -4,2 -11.33333,5.33334 -7.33334,2.66666 -17.33334,5.33333 -9.33333,2.66667 -21.33333,4.66667 -11.33334,2 -24,2 -29.33334,0 -48.66667,-8 Q 290,797.64776 278,781.64775 q -11.33333,-16 -16,-39.33333 -4.66666,-24 -4.66666,-55.33333 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:666.66668701px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+         id="path862" />
+    </g>
+  </g>
+</svg>
